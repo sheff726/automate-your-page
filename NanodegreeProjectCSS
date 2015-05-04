@@ -1,0 +1,46 @@
+h1 {
+  background-color: blue;
+  color: orange;
+  text-align: center;
+}
+h2 {
+  margin: 10px;
+  color: white;
+  text-align: center;
+}
+
+.concept-title {
+  font-weight: bold;
+  color: black;
+  margin: 8px;
+  
+}
+
+.concept-description {
+  color:black;
+  margin: 6px;
+}
+
+.lesson {
+  background-color: blue;
+  border-radius: 20px;
+  padding: 10px;
+ }
+
+.concept {
+  background-color: orange;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+body {
+  font-family: Helvetica;
+}
+
+span.caps {
+  padding: 3px, 6px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+}
